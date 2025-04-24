@@ -35,6 +35,6 @@ Ainda estou descobrindo o universo do desenvolvimento, mas minhas áreas de foco
 ## 📫 Como Me Encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/adan-cunha/)  
-- Email: adanlucas@usp.br
+- [Email](adanlucas@usp.br)
 
 ---
