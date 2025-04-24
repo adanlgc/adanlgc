@@ -28,7 +28,7 @@ Ainda estou descobrindo o universo do desenvolvimento, mas minhas áreas de foco
 1. Aprender conceitos fundamentais de C  
 2. Melhorar meu conhecimento de Git e Github  
 3. Estudar Assembly  
-4. Praticar com W3 Schools e criar primeiro projeto (algoritmo que jogará fodinha)  
+4. Praticar com W3 Schools e criar meu primeiro projeto (algoritmo que jogará fodinha)  
 
 ---
 
